@@ -1,3 +1,5 @@
-#Cours about Git
+# Course about Git
 
-learning git
+1. local git
+    track, add, commit, branch, merge, deletee
+2. Connection with GitHub
